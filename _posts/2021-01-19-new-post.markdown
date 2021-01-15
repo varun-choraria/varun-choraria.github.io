@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "brand new post"
+date:   2021-01-19
+categories: brand new post
+permalink: /brand-new-post/
+---
+this is a brand new post to see if i can do it by myself or not

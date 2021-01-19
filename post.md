@@ -1,6 +1,6 @@
 ---
 layout: blogs
-title: Notes
+title: notes
 permalink: /notes/
 ---
 

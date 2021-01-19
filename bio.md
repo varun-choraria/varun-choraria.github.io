@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Bio"
+title:  "bio"
 permalink: /bio/
 ---
 Before you begin reading this section, I highly recommend you go through this [README document.](https://www.notion.so/User-Guide-README-doc-to-Working-with-Varun-Choraria-VC-b2184156ac424b40992bff66ae0963a5) It encapsulates my working philosophy, definition of success and general work ethics.

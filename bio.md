@@ -3,7 +3,9 @@ layout: page
 title:  "Bio"
 permalink: /bio/
 ---
-Before you begin reading this section, I highly recommend you go through this README document. It encapsulates my working philosophy, definition of success and general work ethics.
+Before you begin reading this section, I highly recommend you go through this [README document.](https://www.notion.so/User-Guide-README-doc-to-Working-with-Varun-Choraria-VC-b2184156ac424b40992bff66ae0963a5) It encapsulates my working philosophy, definition of success and general work ethics.
+
+You may also download my updated [resume here.](https://drive.google.com/file/d/1P3k6PUUfqWLJpomtlsHdOINkFdDfnnx1/view?usp=sharing)
 
 For press, invites, or any other document that requires a photo, you may [use this.](https://photos.app.goo.gl/WafK5FLDMj3NTuRv6)
 <hr>
@@ -35,6 +37,9 @@ For press, invites, or any other document that requires a photo, you may [use th
 
       - Final year engineering project on composites was funded by the Govt. of Karnataka. You can view my [project thesis here.](https://drive.google.com/file/d/1PzRhHtNXOgFnOxLP09lzuSPJr0YXsmT4/view?usp=sharing)
 
+  4. **2019-Present:**
+      - Working as a product marketer- GTM with [Vymo Inc.](https://getvymo.com)
+
 <hr>
 <br>
-These days, I'm spending all my time learning how to code, design, and pick up hard skills around GTM and sales at work. I'm also engaged with body-building and cycling.
+On the side, I'm spending all my time learning how to code, design, and picking up hard skills around GTM and sales at work. I'm also engaged with body-building and cycling.

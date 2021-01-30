@@ -1,8 +1,46 @@
 ---
 layout: post
-title:  "brand new post"
-date:   2021-01-19
-categories: brand new post
-permalink: /brand-new-post/
+title:  "Figuring out the rate of survival"
+date:   2021-01-31
+categories: mental models
+permalink: /rate-of-survival/
 ---
-this is a brand new post to see if i can do it by myself or not
+I’m currently reading [‘How to Not be Wrong- the power of mathematical thinking’ by Jordan Ellenberg](https://www.amazon.in/How-Not-Be-Wrong-Mathematical/dp/0143127535) and as you get into the first chapter, you’ll come across this story I’d like to call- “the armour goes where the bullet holes aren’t.”
+
+So here’s the broad premise: WW2 era, a bunch of planes are being shot down by the Axis powers, and you’re trying to figure out a way to not lose brave fighters.
+
+**Plot twist:** Amouring them won’t do you any good either. Largely because it’ll be added payload to the fuselage and will make the plane heavier- restricting it’s manoeuvring capabilities and agility. And using less armour- we all know how that ends.
+
+So it’s interesting to note here that somewhere between the two ends lies our answer.
+
+### The rate of survival and the location of the bullet holes are correlated
+
+A group of officers opined that if you focus the armour on the surface area containing the maximum bullet holes, averaged out across the entire fleet- you’ll be able to ‘get more protection’ without much extra weight. In another way- you'll know exactly which parts of the aircraft body deserve the most protection.
+
+If you cast a mirror against this statement, then you’ll discover that it essentially means you're **only** trying to protect the areas of the plane that are getting hit the most.
+
+Unfortunately a simple plane mirror won’t help us understand this dualistic nature of our problem. Let’s try using a periscope to perhaps get a better view.
+
+What we get to see is now this: the planes that are returning with bullet holes are still coming back- which means there’s quite an acceptable level of tolerance within the fuselage.
+
+However, the other aspects of the plane- perhaps the engine casing- isn’t as welcoming to the bullet holes. The planes that were struck there never returned- which also allows us to make the safe assumption that it’s also the point of maximum vulnerability.
+
+### Making the least assumptions
+
+To better help you understand the importance of being mindful about assumptions- let’s take inventory of the fighter plane story.
+
+An old mathematician’s trick that comes to hand is simply set some variables to zero. I’m not entirely sure if this is arbitrarily done, but my average IQ tells me to subtract variables realistically.
+
+In the fighter plane story- the probability that needs to be managed is that the plane that takes a hit to engine may or may not stay in the air. A part of this equation implies that if a plane did get struck in the engine, it went down.
+
+So, the dataset would present itself in an obscure fashion- either the German bullets magically missed hitting the engine all the time, or that the engine really is the point of failure or maximum vulnerability (as mentioned above).
+
+Therefore, the latter makes more sense and is the assumption that we’d like to keep while deciding which part of the plane to add more armour to.
+
+### Takeaway
+
+1. After a point in life when [you have to make bigger bets on yourself,](https://vc97.medium.com/how-to-bet-on-yourself-in-2021-and-become-pandemic-proof-2a31d888b79a) the only point where your systems might break is if your rate of assumption exponentially increases- If I manage to do X then Y will happen therefore enabling me to finally reach my assumption Z. Naturally the chances of you being left butt-naked to the mercy of nature’s guillotine is high. Like I mentioned with Taleb’s thanksgiving turkey example [in this post.](https://vc97.medium.com/solving-the-quarter-life-identity-crisis-e9b3e05027ff)
+
+2. Embrace survivorship bias. The thing about figuring out life is that in any part, you do not want to be even 1% wrong. While [in my past writing](https://vc97.medium.com/a-sorcerers-guide-to-co-relating-activities-to-drive-desired-outcomes-791367ba160e) I’ve demonstrated a way to achieve some level of predictability via getting visibility into daily activities, it is no silver bullet to bypass the brownian motion of life- or simply put, serendipty. Don’t try and game outcomes. ***Easiest way in my opinion is not to choose the path of least resistance, but to chose the path with the least assumptions.***
+
+3. Lastly, go first-principles and adopt non-linear thinking. I find non-linear thinking more approachable because the path forward is based on your current coordinates. It is something I have been pondering for a while, because context is different for everyone and so the catalysts needed to push you forward in career or life will be in different form or function. What I’m trying to say (or rather emphasising again) is that quit looking for ‘magic playbooks’ or jack and the fucking beanstalk- instead seek quick wins that will maintain your inertia of motion, and not rest. The former will keep you growing. The latter will make you an obstacle both to yourself and to others.

@@ -9,13 +9,15 @@ Topics I speak on: Products, Startups, Writing, and the occasional motivational 
 
 You can view some of the talks that I've given below:
 
+<br>
+
 ### Miracle-preneuring book launch
 
 **August 2016, Cafe Coffee Day HQ, BLR**
 
 This was my first talk ever with the employees of CCD. The best accompaniment to a good cup of french roast is either a loved one or a book. Hence, at the time it seemed fit to launch my first book with one of India's largest coffee chains. Unfortunately, I don't have a recording of this talk, but CCD team were kind enough to put out [this tweet.](https://photos.app.goo.gl/Qm8rfr1jKw5oQpQS9)
 
----
+<br>
 
 ### Chromozome- Digital Marketing Lead Generation Conference
 
@@ -25,7 +27,7 @@ Second talk on 'Growth Hacking Product Marketing'. In this talk, I ran through h
 
 **Video recording:** [Part 1](https://photos.app.goo.gl/PUj2kjJK6yV26nJX7) / [Part 2](https://photos.app.goo.gl/6boKW8VwaX2Gt2UK7) (total time: ~50 minutes)
 
----
+<br>
 
 ### General Talk (Webinar)
 
@@ -35,7 +37,7 @@ My first talk with their esteemed institution. I ran through how I started up in
 
 **Video recording:** [Click here](https://drive.google.com/file/d/1xti__AAsBHMbrViPWMbjL081F-LOMq8L/view?usp=sharing) or [here](https://drive.google.com/file/d/1OZJBQpnw7XituLfEdUEXM7qWHS1Hul0E/view?usp=sharing) (in case the first link doesn't work) (total time: ~60 minutes)
 
----
+<br>
 
 ### Judge, E-summit (Trident Event)
 
@@ -44,6 +46,8 @@ My first talk with their esteemed institution. I ran through how I started up in
 Second time with IEDC:BIT folks, who were kind enough to have me as their judge for the trident event between the 17-19th of August, 2020. You can view all [details of the event on this notion page](https://www.notion.so/IEDC-E-Summit-Trident-x-Varun-6d587ef5aed0434e9404db098800b3f3) (problem statement, criteria to win, winners, points distribution, etc.). Toggle the buttons and the page to view details against team names, rules, etc. Here's the [certificate](https://drive.google.com/file/d/1r7mm4Cch0rPe1j6-BSIgfPVVePMrN66p/view?usp=sharing) as well. (PDF this time; learnt the lesson from the bad photo spree)
 
 **Video Recording:** It was a 3 day event, each day spanning about 4 hours. So in total, this is about ~12 hours of content. Access the folders here: [Day 1](https://drive.google.com/drive/folders/1XS0dR_o8ra4M9vr_dZpzPE9V3JDnse9H?usp=sharing) / [Day 2](https://drive.google.com/drive/folders/14HZlOALPKkJcVLYhbSUqyCDButN3uo8T?usp=sharing) / [Day 3](https://drive.google.com/drive/folders/1okduU3-Ob19qigD_xZSSyPVBB9h5NhqD?usp=sharing)
+
+<br>
 
 ---
 <br>

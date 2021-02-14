@@ -38,8 +38,12 @@ For press, invites, or any other document that requires a photo, you may [use th
       - Final year engineering project on composites was funded by the Govt. of Karnataka. You can view my [project thesis here.](https://drive.google.com/file/d/1PzRhHtNXOgFnOxLP09lzuSPJr0YXsmT4/view?usp=sharing)
 
   4. **2019-Present:**
+
       - Working as a product marketer- GTM with [Vymo Inc.](https://getvymo.com)
+
+      - Co-authoring articles on [moneycontrol.com](https://www.moneycontrol.com), on the topic of 'future of work and remote work.'
+        - [The Varied Shades of Remote Work, Feb '21.](https://www.moneycontrol.com/news/business/the-varied-shades-of-remote-work-6435401.html)
 
 <hr>
 <br>
-On the side, I'm spending all my time learning how to code, design, and picking up hard skills around GTM and sales at work. I'm also engaged with body-building and cycling.
+On the side, I'm spending all my time learning how to code, design, and picking up hard skills around GTM and sales at work. I'm also engaged with body-building.

@@ -108,3 +108,16 @@ Some principles, [from the article](https://medium.com/better-humans/ultralearni
 #### **Ruthlessly target your weaknesses** to overcome your barriers.
 
 - Enlist your weak points. They are your goals and path to victory. Prioritize them and work over each, like a checklist. Voila.
+
+<br>
+
+### Edit: 16th Feb 2021:
+Paras Chopra put out [this tweet](https://twitter.com/paraschopra/status/1361350824262213639) which serves as a good conclusion:
+
+"Thinking deeply to figure out your life’s purpose is doing it wrong because you pretty soon realise that logic is inert - it can’t tell you what to do with your life. Instead, start with an emotionally-felt purpose and then think deeply about how to make progress towards it."
+
+Point is, everything mentioned in this post should help you figure out one of the two things:
+
+1. The two week sprint is just enough time to gauge if you're really interested in something or not.
+
+2. The two week sprint is just enough time to gauge if you can nail consistency, get out of inertia of rest and scale.

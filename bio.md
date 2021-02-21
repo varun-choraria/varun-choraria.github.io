@@ -41,8 +41,11 @@ For press, invites, or any other document that requires a photo, you may [use th
 
       - Working as a product marketer- GTM with [Vymo Inc.](https://getvymo.com)
 
+      - Writes [Inverted Passion Newsletter](https://invertedpassion.substack.com) with [Paras Chopra](https://twitter.com/paraschopra)- ~850 subscribers.
+
       - Co-authoring articles on [moneycontrol.com](https://www.moneycontrol.com), on the topic of 'future of work and remote work.'
         - [The Varied Shades of Remote Work, Feb '21.](https://www.moneycontrol.com/news/business/the-varied-shades-of-remote-work-6435401.html)
+        - [When you go fully remote, terms and conditions apply, Feb '21.](https://www.moneycontrol.com/news/business/when-you-go-fully-remote-terms-and-conditions-apply-6532991.html)
 
 <hr>
 <br>

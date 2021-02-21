@@ -16,6 +16,8 @@ You can view my bookshelf on [GoodReads here.](https://www.goodreads.com/user/sh
 <br>
 ## Playbooks
 
-I use most of these documents in my day-to-day. They have been inspired from people I follow and general internet surfing.
+I use these notion documents in my day-to-day. They have been inspired from people I follow and general internet surfing. Again, these are dynamic documents- you will probably witness live editing as I work on them myself.
 
-(coming soon)
+1. [On Writing](https://www.notion.so/Writing-c3477de65a0a4861b3041b968ef5fb93)
+
+(More Coming Soon)

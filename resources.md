@@ -19,5 +19,6 @@ You can view my bookshelf on [GoodReads here.](https://www.goodreads.com/user/sh
 I use these notion documents in my day-to-day. They have been inspired from people I follow and general internet surfing. Again, these are dynamic documents- you will probably witness live editing as I work on them myself.
 
 1. [On Writing](https://www.notion.so/Writing-c3477de65a0a4861b3041b968ef5fb93)
+2. [On Jobs-To-Be-Done](https://www.notion.so/JTBD-936ebf1abb2a4f3f98a251891d9f02a2)
 
 (More Coming Soon)

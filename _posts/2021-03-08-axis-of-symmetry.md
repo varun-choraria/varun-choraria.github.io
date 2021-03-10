@@ -31,7 +31,7 @@ Every instant in life offers multiple possibilities, like multiple endings to an
 <!-- Added by Vedant for reference -->
 
 ![image](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80)
-![image](/images/axias-of-symmetry-03-08-21/Untitled.png)
+![image](/Images/axias-of-symmetry-03-08-21/Untitled.png)
 
 But an interesting mental model to note is that happiness, luck, skill, smartness, etc- are individual axis of symmetries. Reason being they're are so serendipitously complex that correlation is just gross oversimplification. Any and all work- be it trying to be happy, trying to become smarter, trying to start a business- require the same amount of intellectual labor.
 

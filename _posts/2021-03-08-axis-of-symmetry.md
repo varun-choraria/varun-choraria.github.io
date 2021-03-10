@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sheep-like behavior, axis of symmetry and exceptional outcomes"
+title: "Sheep-like behavior, axis of symmetry and exceptional outcomes"
 date: 2021-03-08
 categories: mental models
 permalink: /axis-of-symmetry/
@@ -10,7 +10,7 @@ I think growing up our social conditioning is rigged in such a condescending way
 
 Over time, I've seen my own perceptions of success involve a lot. By degree, I am a mechanical engineer but by training, I'm a marketer. In college, I used to think owing a business was the ultimate goal in life, and I started a few businesses that helped me recover my college fees- but after a point I hit the ceiling with how much I could really do in terms of learning, which is around the time I decided to quit.
 
-To give products a try, I built [AiboMBA,](https://www.producthunt.com/posts/aibo-2) a no-code tool that teaches you the basics of MBA via conversations on Facebook Messenger. While that didn't work out so well, it introduced me to the world of SaaS- and fast-forward today where I work with a series-B startup, close to two years now.  My perception of skill, luck and success has evolved quite a bit:
+To give products a try, I built [AiboMBA,](https://www.producthunt.com/posts/aibo-2) a no-code tool that teaches you the basics of MBA via conversations on Facebook Messenger. While that didn't work out so well, it introduced me to the world of SaaS- and fast-forward today where I work with a series-B startup, close to two years now. My perception of skill, luck and success has evolved quite a bit:
 
 Success- rate of outcomes vs. rate of perceived efforts. Reach a point in life where 80-20 becomes the norm in all wealth and status creation activities.
 
@@ -28,7 +28,10 @@ Every instant in life offers multiple possibilities, like multiple endings to an
 
 [In an earlier post,](https://vc97.medium.com/how-to-bet-on-yourself-in-2021-and-become-pandemic-proof-2a31d888b79a) I shared the concept of a simple scenario planning based on your current belief system- which is essentially using your own gut to drive decision making. The biggest upside to this is that the decision- making model is inherently contextual, which makes it a foolproof method to follow.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09b6dbb9-4be7-4376-aeda-3bcd5d899349/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09b6dbb9-4be7-4376-aeda-3bcd5d899349/Untitled.png)
+<!-- Added by Vedant for reference -->
+
+![image](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80)
+![image](/images/axias-of-symmetry-03-08-21/Untitled.png)
 
 But an interesting mental model to note is that happiness, luck, skill, smartness, etc- are individual axis of symmetries. Reason being they're are so serendipitously complex that correlation is just gross oversimplification. Any and all work- be it trying to be happy, trying to become smarter, trying to start a business- require the same amount of intellectual labor.
 

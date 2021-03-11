@@ -22,17 +22,13 @@ Skill- when small differences in actions are able to produce large differences i
 
 Tim Urban [tweeted this the other day](https://twitter.com/waitbutwhy/status/1367871165319049221?s=20) and it's a profound graph that can also be studied to understand just how uncomfortable we humans get when we are presented with multiple choices.
 
+![image](/Images/axis-of-symmetry-03-08-21/Untitled.png)
+
 Every instant in life offers multiple possibilities, like multiple endings to an adventure game or a novel. When we're faced with such choices to make, it's hard to determine which could be the best course of action.
-
-
-![Tim Urban Image](https://github.com/varun-choraria/varun-choraria.github.io/blob/main/Images/axias-of-symmetry-03-08-21/Untitled.png)
 
 [In an earlier post,](https://vc97.medium.com/how-to-bet-on-yourself-in-2021-and-become-pandemic-proof-2a31d888b79a) I shared the concept of a simple scenario planning based on your current belief system- which is essentially using your own gut to drive decision making. The biggest upside to this is that the decision- making model is inherently contextual, which makes it a foolproof method to follow.
 
-<!-- Added by Vedant for reference -->
-
-![image](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80)
-![image](/Images/axias-of-symmetry-03-08-21/Untitled.png)
+![image](/Images/axis-of-symmetry-03-08-21/Untitled-2.png)
 
 But an interesting mental model to note is that happiness, luck, skill, smartness, etc- are individual axis of symmetries. Reason being they're are so serendipitously complex that correlation is just gross oversimplification. Any and all work- be it trying to be happy, trying to become smarter, trying to start a business- require the same amount of intellectual labor.
 

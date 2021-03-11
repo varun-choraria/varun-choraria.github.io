@@ -24,7 +24,8 @@ Tim Urban [tweeted this the other day](https://twitter.com/waitbutwhy/status/136
 
 Every instant in life offers multiple possibilities, like multiple endings to an adventure game or a novel. When we're faced with such choices to make, it's hard to determine which could be the best course of action.
 
-![Group 1102.png)
+
+![Tim Urban Image](https://github.com/varun-choraria/varun-choraria.github.io/blob/main/Images/axias-of-symmetry-03-08-21/Untitled.png)
 
 [In an earlier post,](https://vc97.medium.com/how-to-bet-on-yourself-in-2021-and-become-pandemic-proof-2a31d888b79a) I shared the concept of a simple scenario planning based on your current belief system- which is essentially using your own gut to drive decision making. The biggest upside to this is that the decision- making model is inherently contextual, which makes it a foolproof method to follow.
 
